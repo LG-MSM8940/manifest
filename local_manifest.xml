@@ -3,7 +3,7 @@
   <!-- LG-V530 -->
   <project path="device/lge/msm8940-common" name="LG-MSM8940/android_device_lge_msm8940-common" remote="github" revision="cm-14.1" />
   <project path="device/lge/v530" name="LG-MSM8940/android_device_lge_v530" remote="github" revision="cm-14.1" />
-  <project path="kernel/lge/msm8916" name="LG-MSM8940/android_kernel_lge_msm8940" remote="github" revision="cm-14.1" />
+  <project path="kernel/lge/msm8916" name="LG-MSM8940/android_kernel_lge_msm8940" remote="github" revision="nougat" />
   <project path="vendor/lge/v530" name="LG-MSM8940/android_vendor_lge_v530" remote="github" revision="cm-14.1" />
 
   <!-- LineageOS -->
